@@ -8,7 +8,6 @@ bash ./install.sh
 
 **注意**：
 
-需要自己选择安装 ycm 亦或是 vim-auto-popmenu + vim-dcit
 
 > *默认*：vim-auto-popmenu + vim-dcit
 
